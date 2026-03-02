@@ -1,5 +1,5 @@
 # Roblox-OP-BLADE-Self-Injecting-Macro
-[![Badge](https://img.shields.io/badge/PythonDiddler-blue)](https://github.com/Fr0zst)
+[![Badge](https://img.shields.io/badge/PythonDiddler-blue)](https://github.com/Fr0zst) [![Badge](https://img.shields.io/badge/Python-blue)](https://www.python.org/downloads/)
 
 <img width="876" height="416" alt="Screenshot 2026-03-01 220511" src="https://github.com/user-attachments/assets/6d91350b-a01c-43c3-b8c4-de1d2fccaa2e" />
 
